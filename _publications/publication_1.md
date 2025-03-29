@@ -1,10 +1,11 @@
 ---
-title: Wayamba Journal of Management Volume 15 Issue II December 2024 
+title: "Kaushika"
 collection: publications
-category: Article 
-permalink: Perera 
-venue:
-slidesurl:
-citation:
+category: conferences
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
-This is the abstract for 
+Hi beee
